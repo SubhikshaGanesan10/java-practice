@@ -1,4 +1,5 @@
 class ReverseNumber{
+    // Reverse the digits of a given number.
     public static void main(String args[]){
         ReverseNumber obj = new ReverseNumber();
         System.out.println(obj.reverseNumber(12345));
