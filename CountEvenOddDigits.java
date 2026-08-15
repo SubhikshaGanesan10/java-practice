@@ -3,8 +3,7 @@ public class CountEvenOddDigits {
     public static void main(String[] args) {
         int num = 12345;
         CountEvenOddDigits count = new CountEvenOddDigits();
-        //CountEvenOddDigits odd = new CountEvenOddDigits();
-
+   
         System.out.println("Even digit: " + count.evenDigits(num) + " and Odd digits: " + count.oddDigits(num));
         
     }
