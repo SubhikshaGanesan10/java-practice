@@ -5,15 +5,29 @@ This repository contains my Java programming practice as I learn and strengthen 
 ## Topics Covered
 
 - Java Basics
-- Variables and Data Types
+- Variables & Data Types
+- Type Conversion
 - Operators
 - Conditional Statements
 - Loops
-- Arrays
 - Methods
+- Arrays
 - Strings
-- Object-Oriented Programming
-- Problem Solving
+- Classes & Objects
+- Encapsulation
+- Constructors
+- Static Members
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Packages & Access Modifiers
+- Enums & Annotations
+- Exception Handling
+- Multithreading
+- Collections Framework
+- Lambda Expressions
+- Stream API
 
 ## Goal
 
