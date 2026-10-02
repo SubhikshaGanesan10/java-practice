@@ -11,6 +11,7 @@ This repository contains my Java programming practice as I learn and strengthen 
 - Loops
 - Arrays
 - Methods
+- Strings
 - Object-Oriented Programming
 - Problem Solving
 
